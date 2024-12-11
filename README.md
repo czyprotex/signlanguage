@@ -83,6 +83,7 @@ o Pyttsx3/Google TTS: For text-to-speech synthesis.
 • Development Environments:
 IDEs like Visual Studio Code or PyCharm. 
 
+
 Hardware: 
 • Cameras: High-resolution cameras or webcams for capturing gestures.
 • Microcontrollers: For interfacing with sensors and processing data (if required). 
