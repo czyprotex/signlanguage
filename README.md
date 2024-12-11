@@ -39,6 +39,33 @@ Medical Relevance:
 • Healthcare Communication: Improves interactions between healthcare providers and deaf patients, aiding in better diagnosis and treatment. Industry Applications: • Customer Service: Facilitates communication in service industries, improving customer support and accessibility. • Education: Assists in teaching and learning sign language in educational institutions.
 
 Block Diagram and its Explanation
++-------------------------+
+|    Input Device         |
+| (Camera, Scanner)       |
++-------------------------+
+           |
+           v
++-------------------------+
+| Sign Language           |
+| Recognition Module      |
++-------------------------+
+           |
+           v
++-------------------------+
+| Text Conversion Module  |
++-------------------------+
+           |
+           v
++-------------------------+
+| Text-to-Speech Engine   |
++-------------------------+
+           |
+           v
++-------------------------+
+|    Output Device        |
+|       (Speaker)         |
++-------------------------+
+
 Explanation: 
 • Input Device: Captures visual data of sign language gestures. 
 • Recognition Module: Processes the visual data to recognize specific signs. 
