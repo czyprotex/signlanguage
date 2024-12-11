@@ -1,4 +1,4 @@
-#TEAM signlanguage.py
+#TEAM signlanguage
 Rashi Sawardekar
 Yashraj Damgude
 Dhruv Patel
