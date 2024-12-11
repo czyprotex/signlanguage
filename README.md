@@ -39,6 +39,7 @@ Medical Relevance:
 • Healthcare Communication: Improves interactions between healthcare providers and deaf patients, aiding in better diagnosis and treatment. Industry Applications: • Customer Service: Facilitates communication in service industries, improving customer support and accessibility. • Education: Assists in teaching and learning sign language in educational institutions.
 
 Block Diagram and its Explanation
+
 +-------------------------+
 |    Input Device         |
 | (Camera, Scanner)       |
